@@ -1,13 +1,9 @@
 {
-    "Image":"dollar",
-    "Name":"Finance",
-    "Description":"To manage financial tasks",
-    "Content":"To manage all financial tasks includs:\n* Wallet\n* Accounts\n*Transactions\n* Payments\n* ...",
+    "Image":"credit-card",
+    "Name":"Payment-ZarinPal",
+    "Description":"To have a ZarinPal payment port",
     "Access": 900000000,
-    "Reference": "aseqbase/finance",
-    "PreInstalls": [
-        "aseqbase/qrcode"
-    ],
+    "Reference": "aseqbase/payment-zarinpal",
     "PostInstalls": [],
     "MetaData":[]
 }

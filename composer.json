@@ -1,6 +1,6 @@
 {
-    "name":"Finance",
-    "description":"To manage financial tasks",
+    "name":"aseqbase/payment-zarinpal",
+    "description":"To pay money",
     "type": "package",
     "license": "GPL-3.0-only",
     "authors": [
