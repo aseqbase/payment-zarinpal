@@ -1,4 +1,5 @@
 <?php
+if(!\_::$Joint->ZarinPal->TestPort) return null;
 library("payment/ZarinPalPort");
 return new MiMFa\Library\Payment\ZarinPalPort(
     "a3e1ashmklkdvndslvndlsdjlksdsddlgdf6",
