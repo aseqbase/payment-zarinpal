@@ -14,5 +14,5 @@ class ZarinPal extends \MiMFa\Library\Revise
      * @category Security
      * @field Password
      */
-    public string|null $MerchantId = null;
+    public $MerchantId = "";
 }
